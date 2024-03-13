@@ -2,7 +2,7 @@ name: codegen-ci
 
 on:
   push:
-    branches: [ main ]
+    branches: [ test-gradle-update ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
